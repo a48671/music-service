@@ -1,0 +1,15 @@
+.trackProgress {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  flex-grow: 1;
+}
+
+.input {
+  width: 300px;
+}
+
+.time {
+  padding: 0 30px;
+  white-space: nowrap;
+}
